@@ -1,0 +1,11 @@
+.nav-bar{
+    display: flex;
+    background-color: bisque;
+    padding: 15px;
+    list-style-type:none;
+    justify-content: space-between;
+    font-family: cursive;
+}
+.nav-link{
+    text-decoration: none;
+}
