@@ -1,7 +1,7 @@
 import React from 'react'
-
+import Counter from "./Counter"
 export default function Contact() {
   return (
-    <div>Contact</div>
+    <div><Counter/></div>
   )
 }

@@ -3,9 +3,10 @@
     background-color: bisque;
     padding: 15px;
     list-style-type:none;
-    justify-content: space-between;
+    justify-content: space-evenly;
     font-family: cursive;
 }
 .nav-link{
     text-decoration: none;
+    color:darkolivegreen;
 }

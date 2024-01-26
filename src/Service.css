@@ -1,10 +1,16 @@
 .service{
     display:grid;
+    font-family: cursive;
+    text-align: center;
+    color:rgb(183, 25, 101);
     grid-template-columns: repeat(3,1fr);
+    background-color: oldlace;
     gap:20px;    
 }
 .service-item
 {
     background-color: lavender;
     padding: 10px;
+    border: 2px solid rgb(133, 9, 163);
+    border-radius: 9px;
 }

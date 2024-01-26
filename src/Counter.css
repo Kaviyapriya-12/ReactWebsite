@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+    color:blueviolet;
+}
+.counter-box{
+    text-align: center;
+    font-family: 'Segoe UI';
+}
+.button-container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: violet;
+    
+}
